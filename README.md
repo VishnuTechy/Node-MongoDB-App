@@ -12,11 +12,11 @@ NODE_ENV=...
 ### Build the app
 
 ```shell
-npm run build
+node server
 ```
 
 ### Start the app
 
 ```shell
-npm start
+node server
 ```
